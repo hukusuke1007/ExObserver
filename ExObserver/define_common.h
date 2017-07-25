@@ -1,0 +1,8 @@
+#pragma once
+
+enum STATUS {
+	STATUS_START,
+	STATUS_PROCESSING,
+	STATUS_WAITING,
+	STATUS_END,
+};
