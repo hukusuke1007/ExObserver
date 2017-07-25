@@ -152,7 +152,7 @@
   <ItemGroup>
     <ClCompile Include="contents.cpp" />
     <ClCompile Include="logout.cpp" />
-    <ClCompile Include="main.cpp" />
+    <ClCompile Include="ExObserver.cpp" />
     <ClCompile Include="state.cpp" />
     <ClCompile Include="stdafx.cpp" />
   </ItemGroup>

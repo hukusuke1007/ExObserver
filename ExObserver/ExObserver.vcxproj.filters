@@ -41,9 +41,6 @@
     <ClCompile Include="stdafx.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
-    <ClCompile Include="main.cpp">
-      <Filter>ソース ファイル</Filter>
-    </ClCompile>
     <ClCompile Include="logout.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
@@ -51,6 +48,9 @@
       <Filter>ソース ファイル</Filter>
     </ClCompile>
     <ClCompile Include="state.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="ExObserver.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
   </ItemGroup>
